@@ -1,0 +1,75 @@
+.inputok1{
+    display: flex;
+    padding: 10px ;
+    margin: 20px;
+    outline: none;
+    border: 1px solid #dadce0;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: inherit;
+    transition: all 0.3s ease-in-out;
+    margin: 20px auto;
+}
+body{
+    background-color: #6a6a6a;
+}
+#button_add{
+    display: block;
+    width: 226px;
+    height: 50px;
+    margin: 20px auto;
+    outline: none;
+    border: 1px solid #dadce0;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: inherit;
+    transition: all 0.3s ease-in-out;
+    
+    color: black;
+    font-weight: 550;
+    
+}
+#data-form{
+    background-color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    width: 50%;
+    display: block;
+    margin: 10px auto;
+    margin-top: 100px;
+    padding: 50px;
+    border-radius: 20px;
+}
+.add_product{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 200;
+}
+#data-list{
+    display: block;
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 20px;
+    list-style: none;
+}
+.nameok{
+    padding: 10px;
+}
+.priceok{
+    padding:10px;
+}
+.edit{
+    padding: 2px 5px;
+    background-color: grey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+.delete{
+    padding: 2px 5px;
+    background-color: black;
+    color: white;
+    
+    border-radius: 5px;
+}
